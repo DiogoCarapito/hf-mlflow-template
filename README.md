@@ -1,7 +1,7 @@
 [![Github Actions Workflow](https://github.com/DiogoCarapito/hf-mlflow-template/actions/workflows/main.yaml/badge.svg)](https://github.com/DiogoCarapito/hf-mlflow-template/actions/workflows/main.yaml)
 
-# python_project_template
-Personal python project template
+# hf-mlflow-template
+Template for a Hugging Face fine-tuning classification model, pytorch based with local MLFlow server tracking 
 
 ## cheat sheet
 
