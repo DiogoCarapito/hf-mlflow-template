@@ -21,4 +21,3 @@ build docker image
 ```bash
 docker build -t main:latest .
 ```
-

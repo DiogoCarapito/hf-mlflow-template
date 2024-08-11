@@ -19,8 +19,7 @@ scikit-learn
 transformers>=4.43 # transformers version that works with apple silicon 'mps'
 torch
 mlflow
-huggingface
-huggingface_hub
 datasets
 evaluate
 accelerate>=0.21.0
+sentencepiece
